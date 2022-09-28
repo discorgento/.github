@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-Tech Community on Discord Magento, js, php, mysql, react, vue
+Tech Community on Discord (Magento, js, php, mysql, react, vue)
 
 we want **YOU** for [our community](https://discord.io/Discorgento)!
