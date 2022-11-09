@@ -21,13 +21,13 @@ we want **YOU** for [our community](https://discord.io/Discorgento)!
     </a>
     <a href="https://www.instagram.com/discorgento/" target="_blank" title="Instagram">
         <img
-            src="./imgs/social/instagram-icon.png" width="40" height="40"/>
+            src="https://discorgento.com/imgs/social/instagram-icon.png" width="40" height="40"/>
     </a>
     <a href="https://open.spotify.com/show/5h3gKepBezY4Iz5LM79nUn" target="_blank" title="Spotify">
         <img
             src="https://discorgento.com/imgs/social/spotify-icon.png" width="40" height="40"/>
     </a>
-    <a href="https://www.youtube.com/channel/UChJitnyFtNOoCe6cu-rHcow" target="_blank" title="Youtube">
+    <a href="https://www.youtube.com/@discorgento" target="_blank" title="Youtube">
         <img
             src="https://discorgento.com/imgs/social/youtube-icon.png" width="40" height="40"/>
     </a>
