@@ -11,10 +11,12 @@ Podcast and Tech Community on Discord (Magento, js, php, mysql, react, vue)
 
 Discorgento is a Podcast and Technology community with a specific focus on Magento 2, hosted on the Discord server. It aims to bring together enthusiasts, developers, merchants, and professionals interested in exploring the world of Magento 2. The community offers discussions, experiences, valuable tips, and exclusive podcasts about the platform. Everyone is welcome in this friendly and collaborative environment. Join the Discorgento server to learn, make friends, and engage with fellow Magento 2 enthusiasts!
 
+
 we want **YOU** for [our community](https://discord.io/Discorgento)!
 
+
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269281481-99db2b1f-1884-4f44-8232-c251bd354427.png">](https://discord.gg/amfwybm3yj)
 <div class="bottom-bar">
-    [<img src="https://github.com/discorgento/.github/assets/2486808/99db2b1f-1884-4f44-8232-c251bd354427">](https://discord.gg/amfwybm3yj)
     <a href="https://github.com/discorgento" target="_blank" title="Github">
         <img
             src="https://discorgento.com/imgs/social/github-logo.png" width="40" height="40"/>
