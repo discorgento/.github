@@ -14,9 +14,7 @@ Discorgento is a Podcast and Technology community with a specific focus on Magen
 we want **YOU** for [our community](https://discord.io/Discorgento)!
 
 <div class="bottom-bar">
-    <a href="https://discord.io/Discorgento" target="_blank" title="Discord">
-        <img src="https://github.com/discorgento/.github/assets/2486808/99db2b1f-1884-4f44-8232-c251bd354427" width="40" height="40" />
-    </a>
+    [<img src="https://github.com/discorgento/.github/assets/2486808/99db2b1f-1884-4f44-8232-c251bd354427">](https://discord.gg/amfwybm3yj)
     <a href="https://github.com/discorgento" target="_blank" title="Github">
         <img
             src="https://discorgento.com/imgs/social/github-logo.png" width="40" height="40"/>
