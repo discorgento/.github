@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://discorgento.com/imgs/logo-discorgento.svg" alt="Discorgento logo" width="128" height="128" title="Discorgento"/> 
+    <img src="https://discorgento.com/img/logo.svg" alt="Discorgento logo" width="128" height="128" title="Discorgento"/> 
   <br>
   discorgento.com
   <br>
@@ -15,16 +15,18 @@ Discorgento is a Podcast and Technology community with a specific focus on Magen
 we want **YOU** for [our community](https://discord.io/Discorgento)!
 
 
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269281481-99db2b1f-1884-4f44-8232-c251bd354427.png" width="40">](https://discord.gg/amfwybm3yj)
-
 <div class="bottom-bar">
+    <a href="https://discord.gg/amfwybm3yj" target="_blank" title="Discord">
+        <img
+            src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269281481-99db2b1f-1884-4f44-8232-c251bd354427.png" width="40" height="40"/>
+    </a>
     <a href="https://github.com/discorgento" target="_blank" title="Github">
         <img
             src="https://discorgento.com/imgs/social/github-logo.png" width="40" height="40"/>
     </a>
     <a href="https://www.instagram.com/discorgento/" target="_blank" title="Instagram">
         <img
-            src="https://github.com/discorgento/.github/assets/2486808/85f433ad-637e-4f4a-8495-a257f46fcb5b" width="40" height="40"/>
+            src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269281154-85f433ad-637e-4f4a-8495-a257f46fcb5b.png" width="40" height="40"/>
     </a>
     <a href="https://open.spotify.com/show/5h3gKepBezY4Iz5LM79nUn" target="_blank" title="Spotify">
         <img
