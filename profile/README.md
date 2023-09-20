@@ -23,7 +23,7 @@ we want **YOU** for [our community](https://discord.io/Discorgento)!
     </a>
     <a href="https://www.instagram.com/discorgento/" target="_blank" title="Instagram">
         <img
-            src="https://github.com/discorgento/.github/assets/2486808/0c4c4dd1-f2ad-4e55-83db-9afc2560ebef" width="40" height="40"/>
+            src="https://github.com/discorgento/.github/assets/2486808/85f433ad-637e-4f4a-8495-a257f46fcb5b" width="40" height="40"/>
     </a>
     <a href="https://open.spotify.com/show/5h3gKepBezY4Iz5LM79nUn" target="_blank" title="Spotify">
         <img
