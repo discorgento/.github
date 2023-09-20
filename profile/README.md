@@ -15,7 +15,7 @@ we want **YOU** for [our community](https://discord.io/Discorgento)!
 
 <div class="bottom-bar">
     <a href="https://discord.io/Discorgento" target="_blank" title="Discord">
-        <img src="https://discorgento.com/imgs/social/discord-icon.png" width="40" height="40" />
+        <img src="https://github.com/discorgento/.github/assets/2486808/99db2b1f-1884-4f44-8232-c251bd354427" width="40" height="40" />
     </a>
     <a href="https://github.com/discorgento" target="_blank" title="Github">
         <img
