@@ -16,6 +16,7 @@ we want **YOU** for [our community](https://discord.io/Discorgento)!
 
 
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269281481-99db2b1f-1884-4f44-8232-c251bd354427.png">](https://discord.gg/amfwybm3yj)
+
 <div class="bottom-bar">
     <a href="https://github.com/discorgento" target="_blank" title="Github">
         <img
