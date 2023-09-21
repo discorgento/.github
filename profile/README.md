@@ -22,7 +22,7 @@ we want **YOU** for [our community](https://discord.gg/amfwybm3yj)!
     </a>
     <a href="https://github.com/discorgento" target="_blank" title="Github">
         <img
-            src="https://discorgento.com/imgs/social/github-logo.png" width="40" height="40"/>
+            src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269585593-13e7278c-879c-4f23-b1d9-3c681b66da6e.png" width="40" height="40"/>
     </a>
     <a href="https://www.instagram.com/discorgento/" target="_blank" title="Instagram">
         <img
@@ -30,14 +30,14 @@ we want **YOU** for [our community](https://discord.gg/amfwybm3yj)!
     </a>
     <a href="https://open.spotify.com/show/5h3gKepBezY4Iz5LM79nUn" target="_blank" title="Spotify">
         <img
-            src="https://discorgento.com/imgs/social/spotify-icon.png" width="40" height="40"/>
+            src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269585978-b4477dae-503d-4d48-aead-903a2f6ba61a.png" width="40" height="40"/>
     </a>
     <a href="https://www.youtube.com/@discorgento" target="_blank" title="Youtube">
         <img
-            src="https://discorgento.com/imgs/social/youtube-icon.png" width="40" height="40"/>
+            src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269586115-141075b9-d945-4bfc-bd51-ef2c167a84eb.png" width="40" height="40"/>
     </a>
     <a href="https://twitter.com/discorgento" target="_blank" title="Twitter">
         <img
-            src="https://discorgento.com/imgs/social/twitter-logo.png" width="40" height="40"/>
+            src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269586325-75bd4a6a-8526-438b-884a-edf477ab0722.png" width="40" height="40"/>
     </a>
 </div>
