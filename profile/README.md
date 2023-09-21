@@ -1,8 +1,10 @@
 <h1 align="center">
-    <img src="https://discorgento.com/img/logo.svg" alt="Discorgento logo" width="128" height="128" title="Discorgento"/> 
-  <br>
-  discorgento.com
-  <br>
+    <a href="https://discorgento.com/" target="_blank" title="discorgento.com">
+        <img src="https://discorgento.com/img/logo.svg" alt="Discorgento logo" width="128" height="128" title="Discorgento"/> 
+        <br>
+        discorgento.com
+        <br>
+    </a>
 </h1>
 
 ## Hi there 👋
