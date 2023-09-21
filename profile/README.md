@@ -16,7 +16,7 @@ we want **YOU** for [our community](https://discord.gg/amfwybm3yj)!
 
 
 <div class="bottom-bar">
-    <a href="https://discord.gg/amfwybm3yj" target="_blank" title="Discord">
+    <a href="https://discorgento.com/discord" target="_blank" title="Discord">
         <img
             src="https://github-production-user-asset-6210df.s3.amazonaws.com/2486808/269281481-99db2b1f-1884-4f44-8232-c251bd354427.png" width="40" height="40"/>
     </a>
